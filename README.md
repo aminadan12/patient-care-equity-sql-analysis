@@ -1,7 +1,7 @@
 # Equity and Efficiency in Patient Care with SQL
 
 ## Overview
-This project analyzes equity and efficiency in patient care using SQL on a 2023 hospital dataset. The analysis focuses on access delays, appointment no-shows, and financial friction in billing.
+This project analyses equity and efficiency in patient care using SQL on a 2023 hospital dataset. The analysis focuses on access delays, appointment no-shows, and financial friction in billing.
 
 ## Dataset
 - Jan–Dec 2023
