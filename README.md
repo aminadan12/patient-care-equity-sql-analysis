@@ -13,9 +13,8 @@ This project analyses equity and efficiency in patient care using SQL on a 2023 
 ## Tools Used
 - SQL
 - BigQuery
-- GitHub
 
-## Metrics Analyzed
+## Metrics Analysed
 1. Delayed access to care
 2. Appointment drop-off and no-shows
 3. Financial friction in billing
@@ -36,6 +35,3 @@ This project analyses equity and efficiency in patient care using SQL on a 2023 
 - `docs/literature_review.md` – healthcare context and background
 - `docs/methodology.md` – dataset scope, metric definitions, and limitations
 - `docs/discussion.md` – interpretation of findings
-
-## Conclusion
-This project uses SQL to examine how inefficiency and inequity can appear together in patient care pathways.
